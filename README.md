@@ -1,4 +1,4 @@
-## Hi, I'm Kanan from Sangrur, PUNJAB 👋
+## Hi, I'm Kanan from Punjab, India👋
 Aspiring Computational Biologist |Future MITACS - Harvard Research Intern            
   I love to decode the language of DNA with code! 🧬
 
@@ -14,6 +14,6 @@ Aspiring Computational Biologist |Future MITACS - Harvard Research Intern
 ### 🎯 Goal:
 To become a top Biotechnologist and create tools that help in genetic research!
 
-> "From Sangrur to the World of Science!"
+> "From India to the World of Science!"
 
-📍 Patiala | Sangrur, Punjab
+📍 Patiala | Punjab, India 
