@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Kanan from Sangrur, Punjab 👋
 
-<!--
-**samratsgr7-design/samratsgr7-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Biotechnologist | Bioinformatician in making | 11th Standard
 
-Here are some ideas to get you started:
+I love to decode the language of DNA with code! 🧬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 What I'm learning:
+- 🌱 Python for Bioinformatics
+- 🧬 DNA Complement & Analysis
+- 📊 GC Content & Sequence Analysis
+
+### 🛠️ My Projects:
+- [DNA Complement Generator] - My first bioinformatics tool!
+- [DNA Counter] - Analyzes DNA sequences
+
+### 🎯 Goal:
+To become a top Biotechnologist and create tools that help in genetic research!
+
+> "From Sangrur to the World of Science!"
+
+📍 Patiala | Sangrur, Punjab
