@@ -1,6 +1,6 @@
 ## Hi, I'm Kanan from Sangrur, PUNJAB 👋
-Aspiring Computational Biologist |Future MITACS - Harvard Research Intern 
-I love to decode the language of DNA with code! 🧬
+Aspiring Computational Biologist |Future MITACS - Harvard Research Intern            
+  I love to decode the language of DNA with code! 🧬
 
 ### 🔬 What I'm learning:
 - 🌱 Python for Bioinformatics
