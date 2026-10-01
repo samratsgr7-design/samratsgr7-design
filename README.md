@@ -1,7 +1,5 @@
-## Hi, I'm Kanan from Sangrur, Punjab 👋
-
-Aspiring Biotechnologist | Bioinformatician in making | 11th Standard
-
+## Hi, I'm Kanan from Sangrur, PUNJAB 👋
+Aspiring Computational Biologist |Future MITACS - Harvard Research Intern 
 I love to decode the language of DNA with code! 🧬
 
 ### 🔬 What I'm learning:
