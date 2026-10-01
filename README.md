@@ -16,4 +16,4 @@ To become a top Biotechnologist and create tools that help in genetic research!
 
 > "From India to the World of Science!"
 
-📍  Punjab, India 
+📍  Punjab , India 
